@@ -55,9 +55,9 @@ Machine translation, for reference only.
 
 | Team Member | Task                                                  | Date                             |
 |-------------|-------------------------------------------------------|----------------------------------|
-| Wang Xuetong| 3D model design, overall circuit design, main code writing; overall project planning | Model design completed; others until final acceptance date |
-| Dong Jiacheng| Design of wired and wireless communication, antenna design; communication-related code writing | Communication design until 2025/2/5; others as above |
-| Liu Jiale    | Design of power reset, programming buttons, circuit indicators, operation method design, usability study | Peripheral circuit design until 2025/1/20; others as above |
+| LilaMew| 3D model design, overall circuit design, main code writing; overall project planning | Model design completed; others until final acceptance date |
+| YiHuan| Design of wired and wireless communication, antenna design; communication-related code writing | Communication design until 2025/2/5; others as above |
+| chu7-1| Design of power reset, programming buttons, circuit indicators, operation method design, usability study | Peripheral circuit design until 2025/1/20; others as above |
 
 ## Expected Project Outcomes :apple:
 * Complete the design and development of the controller, excluding communication, and implement hand motion signal capture and processing.
