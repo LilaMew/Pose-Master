@@ -21,7 +21,7 @@ Machine translation, for reference only.
 7. The design is elegant, aesthetically pleasing, and resilient to extreme environmental conditions.
 
 ## System Architecture :four_leaf_clover:
-![System Architecture](./ÏµÍ³¼Ü¹¹.png)
+![System Architecture](./system.png)
 ## Technical Solution
 * Gesture Signal Algorithm: The MPU-9250 attitude sensor collects hand motion signals, which are filtered using a Kalman filter algorithm. The signal is then recognized by a posture recognition algorithm to output corresponding control signals.
 * Signal Transmission: Both wired and wireless transmission are used to transmit control signals. The wired transmission uses the RS485 protocol, and the wireless transmission uses the 2.4GHz Wi-Fi protocol.
