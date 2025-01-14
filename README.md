@@ -1,5 +1,7 @@
 # 姿态遥控器项目说明
 
+English version: [English](./README_en.md)
+
 ## 这是什么 :no_mouth:
 * 这是一个遥控器项目，使用姿态传感器来获取手势信号来控制对象。
 
